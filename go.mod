@@ -1,8 +1,8 @@
 module github.com/ID-Samurai/sprint12_fianl
 
-go 1.22.12
+go 1.23.0
 
-toolchain go1.22.12
+toolchain go1.23.4
 
 require modernc.org/sqlite v1.39.0
 
